@@ -1,6 +1,7 @@
-# Assignment-Notebook-for-Peer-Assignment
+# Databases and SQL for Data Science with Python
+## Assignment-Notebook-for-Peer-Assignment
 
-# Introduction
+## Introduction
 
 Using this Python notebook you will:
 
